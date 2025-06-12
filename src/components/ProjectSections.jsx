@@ -17,7 +17,7 @@ const projects =[
         description: "A sleek and responsive Netflix-inspired webpage built with HTML, CSS, JavaScript, and React. It features a modern UI with movie thumbnails, hover effects, and responsive layout — mimicking the look and feel of the original platform.",
         image:"/projects/project2.png",
         tags: ["Html","TailwindCss","JavaScript","React"],
-        demoUrl: "#",
+        demoUrl: "https://netflix-page-lake.vercel.app/",
         githubUrl:"https://github.com/bhanuahlawat/Netflix-new",
     },
 
