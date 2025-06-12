@@ -34,7 +34,7 @@ const projects =[
 
 export const ProjectSection=()=>{
     return(
-        <section id="project" className="px-24 py-20 relative">
+        <section id="project" className="px-5 py-20 relative">
             <div className="container mx-auto max-w-5xl">
                 <h2 className="text-3xl md:text-4xl font-bold mb-4 text-center">
                     Featured<span className="text-primary"> Projects</span>
@@ -43,7 +43,7 @@ export const ProjectSection=()=>{
                     Here are some of my recent projects. Each project was carefully
                     crafted with attention to detail, performance, and user experience.
                 </p>
-
+            
                 <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
                     {
                         projects.map((project,key)=>(
@@ -55,7 +55,7 @@ export const ProjectSection=()=>{
                                 </div>
 
                                 <div className="p-6">
-                                    <div className="flex  gap-2 mb-4"> 
+                                    <div className="flex flex-wrap gap-3 mb-4"> 
                                         {project.tags.map((tag)=>(
                                             <span className="px-2 py-1 text-xs border font-medium rounded-full bg-secondary text-secondary-foreground">
                                                 {tag}

@@ -33,8 +33,8 @@ export const Navbar=()=>{
         <nav className={cn("fixed bg-background w-full z-10 transition-all duration-300", isScrolled? "py-3 bg-background/80 backdrop-blur-md shadow-xs": "py-5")}>
 
             <div className="container flex items-center justify-between">
-                <a className="text-xl font-bold text-primary flex items-center" href="#hero">
-                    <span className=" relative z-10">
+                <a className="sm:text-xl font-bold text-primary flex items-center" href="#hero">
+                    <span className=" z-10">
                         <span className="text-glow text-foreground">Bhanu Ahlawat  </span>
                         Portfolio
                     </span>
