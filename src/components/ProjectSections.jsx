@@ -6,7 +6,7 @@ const projects = [
     title: "SaaS Construction Management Platform",
     description:
       "Built responsive, modular UI screens for a construction SaaS platform using React.js and Tailwind CSS. Developed interactive forms, dashboards, procurement modules (PR, RFQ, PO, GRN, Vendor Management, Work Orders), and optimized layouts for all screen sizes.",
-    image: "/public/projects/project4.png",
+    image: "/projects/project4.png",
     tags: ["React.js", "Tailwind CSS", "JavaScript", "Responsive UI", "Lucide Icons"],
     demoUrl: "https://construction-orpin-ten.vercel.app/",
     githubUrl: "https://github.com/bhanuahlawat/Construction-",
@@ -17,7 +17,7 @@ const projects = [
     title: "Gathers & Grand – Event Organizer Platform",
     description:
       "A modern event management platform with animated UI, responsive layouts, dynamic pricing carousel for mobile, and clean booking workflow. Built with React and Tailwind CSS for a smooth, elegant experience.",
-    image: "/public/projects/project5.png",
+    image: "/projects/project5.png",
     tags: ["React", "Tailwind CSS", "JavaScript"],
     demoUrl: "https://gather-grand.vercel.app/",
     githubUrl: "https://github.com/bhanuahlawat/gather-grand",
@@ -28,7 +28,7 @@ const projects = [
     title: "Netflix Page",
     description:
       "A sleek and responsive Netflix-inspired webpage built with HTML, CSS, JavaScript, and React. It features a modern UI with movie thumbnails, hover effects, and responsive layout — mimicking the look and feel of the original platform.",
-    image: "/public/projects/project2.png",
+    image: "/projects/project2.png",
     tags: ["React.js", "TailwindCss", "JavaScript"],
     demoUrl: "https://netflix-page-lake.vercel.app/",
     githubUrl: "https://github.com/bhanuahlawat/Netflix-new",
@@ -41,7 +41,7 @@ const projects = [
     title: "Danveer",
     description:
       "A clean and responsive platform that enables users to donate books easily. Built with HTML, CSS, and JavaScript, it promotes knowledge sharing and supports education through effortless book contributions.",
-    image: "/public/projects/project1.png",
+    image: "/projects/project1.png",
     tags: ["HTML", "CSS", "JavaScript"],
     demoUrl: "https://bhanuahlawat.github.io/Danveer/",
     githubUrl: "https://github.com/bhanuahlawat/Danveer",
